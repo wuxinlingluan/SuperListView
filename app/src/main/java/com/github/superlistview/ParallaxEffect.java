@@ -9,6 +9,8 @@ import android.widget.ListView;
  */
 
 public class ParallaxEffect extends ListView {
+
+
     public ParallaxEffect(Context context) {
         this(context,null);
     }

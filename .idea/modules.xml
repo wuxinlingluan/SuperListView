@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SuperListView.iml" filepath="$PROJECT_DIR$/SuperListView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parallaxeffecthm/parallaxeffecthm.iml" filepath="$PROJECT_DIR$/parallaxeffecthm/parallaxeffecthm.iml" />
     </modules>
   </component>
 </project>
